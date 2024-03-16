@@ -1,0 +1,6 @@
+{
+  "english": "انگلیسی",
+  "persian": "فارسی",
+  "testInServerComponent": "من از سرور کامپوننت میام!",
+  "testInClientComponent": "من از کلاینت کامپوننت میام!"
+}
